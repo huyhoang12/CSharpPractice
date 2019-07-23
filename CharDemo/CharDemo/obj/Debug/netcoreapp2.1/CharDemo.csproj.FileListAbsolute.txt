@@ -1,0 +1,11 @@
+D:\projectC#\CharDemo\CharDemo\bin\Debug\netcoreapp2.1\CharDemo.deps.json
+D:\projectC#\CharDemo\CharDemo\bin\Debug\netcoreapp2.1\CharDemo.runtimeconfig.json
+D:\projectC#\CharDemo\CharDemo\bin\Debug\netcoreapp2.1\CharDemo.runtimeconfig.dev.json
+D:\projectC#\CharDemo\CharDemo\bin\Debug\netcoreapp2.1\CharDemo.dll
+D:\projectC#\CharDemo\CharDemo\bin\Debug\netcoreapp2.1\CharDemo.pdb
+D:\projectC#\CharDemo\CharDemo\obj\Debug\netcoreapp2.1\CharDemo.csprojAssemblyReference.cache
+D:\projectC#\CharDemo\CharDemo\obj\Debug\netcoreapp2.1\CharDemo.csproj.CoreCompileInputs.cache
+D:\projectC#\CharDemo\CharDemo\obj\Debug\netcoreapp2.1\CharDemo.AssemblyInfoInputs.cache
+D:\projectC#\CharDemo\CharDemo\obj\Debug\netcoreapp2.1\CharDemo.AssemblyInfo.cs
+D:\projectC#\CharDemo\CharDemo\obj\Debug\netcoreapp2.1\CharDemo.dll
+D:\projectC#\CharDemo\CharDemo\obj\Debug\netcoreapp2.1\CharDemo.pdb

@@ -1,0 +1,11 @@
+D:\projectC#\bai1\Test1\VariableDemo\bin\Debug\netcoreapp2.1\VariableDemo.deps.json
+D:\projectC#\bai1\Test1\VariableDemo\bin\Debug\netcoreapp2.1\VariableDemo.runtimeconfig.json
+D:\projectC#\bai1\Test1\VariableDemo\bin\Debug\netcoreapp2.1\VariableDemo.runtimeconfig.dev.json
+D:\projectC#\bai1\Test1\VariableDemo\bin\Debug\netcoreapp2.1\VariableDemo.dll
+D:\projectC#\bai1\Test1\VariableDemo\bin\Debug\netcoreapp2.1\VariableDemo.pdb
+D:\projectC#\bai1\Test1\VariableDemo\obj\Debug\netcoreapp2.1\VariableDemo.csproj.CoreCompileInputs.cache
+D:\projectC#\bai1\Test1\VariableDemo\obj\Debug\netcoreapp2.1\VariableDemo.AssemblyInfoInputs.cache
+D:\projectC#\bai1\Test1\VariableDemo\obj\Debug\netcoreapp2.1\VariableDemo.AssemblyInfo.cs
+D:\projectC#\bai1\Test1\VariableDemo\obj\Debug\netcoreapp2.1\VariableDemo.dll
+D:\projectC#\bai1\Test1\VariableDemo\obj\Debug\netcoreapp2.1\VariableDemo.pdb
+D:\projectC#\bai1\Test1\VariableDemo\obj\Debug\netcoreapp2.1\VariableDemo.csprojAssemblyReference.cache

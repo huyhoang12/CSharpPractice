@@ -1,0 +1,22 @@
+C:\Users\Hoang Vuong\source\repos\Game1\Game1\bin\Debug\netcoreapp2.1\Game1.deps.json
+C:\Users\Hoang Vuong\source\repos\Game1\Game1\bin\Debug\netcoreapp2.1\Game1.runtimeconfig.json
+C:\Users\Hoang Vuong\source\repos\Game1\Game1\bin\Debug\netcoreapp2.1\Game1.runtimeconfig.dev.json
+C:\Users\Hoang Vuong\source\repos\Game1\Game1\bin\Debug\netcoreapp2.1\Game1.dll
+C:\Users\Hoang Vuong\source\repos\Game1\Game1\bin\Debug\netcoreapp2.1\Game1.pdb
+C:\Users\Hoang Vuong\source\repos\Game1\Game1\obj\Debug\netcoreapp2.1\Game1.csprojAssemblyReference.cache
+C:\Users\Hoang Vuong\source\repos\Game1\Game1\obj\Debug\netcoreapp2.1\Game1.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Vuong\source\repos\Game1\Game1\obj\Debug\netcoreapp2.1\Game1.AssemblyInfoInputs.cache
+C:\Users\Hoang Vuong\source\repos\Game1\Game1\obj\Debug\netcoreapp2.1\Game1.AssemblyInfo.cs
+C:\Users\Hoang Vuong\source\repos\Game1\Game1\obj\Debug\netcoreapp2.1\Game1.dll
+C:\Users\Hoang Vuong\source\repos\Game1\Game1\obj\Debug\netcoreapp2.1\Game1.pdb
+D:\projectC#\Game1\Game1\bin\Debug\netcoreapp2.1\Game1.deps.json
+D:\projectC#\Game1\Game1\bin\Debug\netcoreapp2.1\Game1.runtimeconfig.json
+D:\projectC#\Game1\Game1\bin\Debug\netcoreapp2.1\Game1.runtimeconfig.dev.json
+D:\projectC#\Game1\Game1\bin\Debug\netcoreapp2.1\Game1.dll
+D:\projectC#\Game1\Game1\bin\Debug\netcoreapp2.1\Game1.pdb
+D:\projectC#\Game1\Game1\obj\Debug\netcoreapp2.1\Game1.csprojAssemblyReference.cache
+D:\projectC#\Game1\Game1\obj\Debug\netcoreapp2.1\Game1.csproj.CoreCompileInputs.cache
+D:\projectC#\Game1\Game1\obj\Debug\netcoreapp2.1\Game1.AssemblyInfoInputs.cache
+D:\projectC#\Game1\Game1\obj\Debug\netcoreapp2.1\Game1.AssemblyInfo.cs
+D:\projectC#\Game1\Game1\obj\Debug\netcoreapp2.1\Game1.dll
+D:\projectC#\Game1\Game1\obj\Debug\netcoreapp2.1\Game1.pdb
